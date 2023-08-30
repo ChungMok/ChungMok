@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 ## 💻 My Stack
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> 
+
+[![AYeomWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolia&show_icons=true)](https://github.com/ChungMok/github-readme-stats)
