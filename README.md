@@ -1,5 +1,5 @@
 ### Hello, I'm Won Yeom 👋
-I'm currently an undergraduate student in Sungkyunkwan University, studiyng Data Science and Statistics.
+I'm currently an undergraduate student in Sungkyunkwan University, studiyng Data Science and Statistics. 
 
 
 <!--
@@ -16,19 +16,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+
 ---
-
-
 ## 💻 My Stack
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/> <img alt="RStudio" src ="https://img.shields.io/badge/RStudio-75AADB.svg?&style=flat-square&logo=RStudio&logoColor=white"/> <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/> 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/> <img alt="RStudio" src ="https://img.shields.io/badge/RStudio-75AADB.svg?&style=flat-square&logo=RStudio&logoColor=white"/> <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/> <br/>
+
+<br/>
 
 ---
-
-
 ## 🏃‍♀️ My work experience
 - Data Science & Statistics 2021~present [Sungkyunkwan University](https://www.skku.edu/skku/index.do)
-- DScover, a data analyzing academy in [Sungkyunkwan University](https://www.skku.edu/skku/index.do)
- 
+- DScover, a data analyzing academy in [Sungkyunkwan University](https://www.skku.edu/skku/index.do) <br>
+
+<br/>
 
 ---
 [![YeomWon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChungMok&theme=algolia&show_icons=true)](https://github.com/ChungMok/github-readme-stats)
